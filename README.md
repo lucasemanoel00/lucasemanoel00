@@ -5,7 +5,7 @@
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+POO+%7C+SQL;Rumo+a+Back-end+%2B+Dados+%F0%9F%93%8A;Construindo+projetos+um+commit+por+vez+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+POO+%7C+SQL;Construindo+projetos+um+commit+por+vez+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
