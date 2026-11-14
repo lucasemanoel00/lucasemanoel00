@@ -38,21 +38,29 @@
 
 ## Estatísticas do GitHub
 
+
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasemanoel00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=lucasemanoel00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemanoel00&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasemanoel00&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
+
+
+## Atividade no GitHub
+
 
 ## Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasemanoel00&theme=github-compact&hide_border=true" width="100%" />
+<a href="https://gitshine.com/stats/lucasemanoel00">
+  <img src="https://gitshine.com/card/lucasemanoel00?theme=dark" width="100%" />
+</a>
 
 </div>
+
 
 ## Histórico de contribuições
 
