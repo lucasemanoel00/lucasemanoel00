@@ -44,9 +44,11 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=lucasemanoel00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasemanoel00&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=lucasemanoel00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide=stars,prs,issues,contribs&hide_rank=true&custom_title=Estatisticas%20do%20GitHub" />
+
+
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasemanoel00&layout=compact&theme=github_dark&hide_border=true&langs_count=5&custom_title=Linguagens%20mais%20utilizadas" />
 
 </div>
 
