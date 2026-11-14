@@ -19,11 +19,11 @@
 
 ## Tecnologias e ferramentas
 
+## Tecnologias e ferramentas
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,git,github&theme=dark" />
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,postgres,html,css,git,github&theme=dark" />
 
 </div>
 
