@@ -17,9 +17,11 @@
 
 ## Tecnologias e ferramentas
 
+## Tecnologias e ferramentas
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,mssql,html,css,git,github&theme=dark" />
 
 </div>
 
@@ -46,10 +48,6 @@
 <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasemanoel00&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
-
-
-## Atividade no GitHub
-
 
 ## Atividade no GitHub
 
