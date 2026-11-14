@@ -30,7 +30,6 @@
 ## Atualmente estudando
 
 - Java e Programação Orientada a Objetos.
-- JavaScript e desenvolvimento Front-end.
 - Banco de Dados e SQL.
 - Desenvolvimento de Software.
 
