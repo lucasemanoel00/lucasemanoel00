@@ -17,10 +17,6 @@
 
 ## Tecnologias e ferramentas
 
-## Tecnologias e ferramentas
-
-## Tecnologias e ferramentas
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,postgres,html,css,git,github&theme=dark" />
