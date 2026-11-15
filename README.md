@@ -71,6 +71,4 @@
 
 <div align="center">
 
-*Aprendendo, desenvolvendo e evoluindo constantemente.*
-
 </div>
